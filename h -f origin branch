@@ -1,0 +1,69 @@
+[33mcommit b51a96b7635b7abdee3a77f0656fe9ed0df293e9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 58ab35c 1c0da07
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 22:05:49 2022 +0100
+
+    Merge remote-tracking branch 'Karhabti/taher'
+    
+    # Conflicts:
+    #       app/src/main/res/navigation/nav_graph.xml
+
+[33mcommit 58ab35c7ed32744a29ac4e911e956266125abf15[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 22:04:56 2022 +0100
+
+    master
+
+[33mcommit d30819c6d0b69f025b45e8482ca5e8ed32bd87b0[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 22:02:53 2022 +0100
+
+    commit
+
+[33mcommit 1c0da070ffbeecb7f0604ee5c130032f8fbe5f17[m[33m ([m[1;31mKarhabti/taher[m[33m, [m[1;32mtaher[m[33m)[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 22:01:19 2022 +0100
+
+    commit
+
+[33mcommit 367972fcf2c9a162e3904554abcfb6bbced8d049[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 22:00:19 2022 +0100
+
+    commit
+
+[33mcommit 6bdd2958e2e1c5a5f47680a866e2982397d75697[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 21:56:06 2022 +0100
+
+    commit
+
+[33mcommit a97a3261934d30d2e7f0455d58b406f6f138573b[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 21:54:15 2022 +0100
+
+    commit
+
+[33mcommit 9f8e9c4458340542c33fbc901abf6173321c026c[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 21:50:49 2022 +0100
+
+    commit
+
+[33mcommit 293890e7f4aafe8eaf606bb858e399a1eea95ecf[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 21:49:42 2022 +0100
+
+    commit
+
+[33mcommit 9c2abd4f9cf2c2fe5f674644b3b84edfd9c7a2d0[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 21:46:49 2022 +0100
+
+    commit
+
+[33mcommit 5fa4a6617ef591b40e1f859e5ef7bd32a84b9d5b[m
+Author: bekritaher <taher.bekri@esprit.tn>
+Date:   Mon Jan 3 21:39:24 2022 +0100
+
+    Initial commit
